@@ -30,9 +30,9 @@ module.exports = {
   // The default one should work fine, altho if you have issue with it, you can create your own or use another public lavalink.
   Lavalink: {
     id: "Main", //- Used for indentifier. You can set this to whatever you want.
-    host: "us1.lavalink.creavite.co", //- The host name or IP of the lavalink server.
-    port: 20080, // The port that lavalink is listening to. This must be a number!
-    pass: "auto.creavite.co", //- The password of the lavalink server.
+    host: "node1.lavalink.chiquicalris.me", //- The host name or IP of the lavalink server.
+    port: 2391, // The port that lavalink is listening to. This must be a number!
+    pass: "lavalink_is_cool", //- The password of the lavalink server.
     secure: false, // Set this to true if the lavalink uses SSL. if not set it to false.
   },
 
